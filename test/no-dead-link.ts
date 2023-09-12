@@ -18,6 +18,7 @@ tester.run("no-dead-link", rule, {
         "should treat 200 OK as alive: https://httpstat.us/200",
         "should treat 200 OK. It require User-Agent: Navigate to [MySQL distribution](https://dev.mysql.com/downloads/mysql/) to install MySQL `5.7`.",
         "should treat 200 OK. It require User-Agent: https://datatracker.ietf.org/doc/html/rfc6749",
+        "should treat 200 OK: https://sunday-morning.app/posts/2020-01-12-cloud-datastore-local-docker",
         {
             text: "should be able to check a URL in a plain text: https://example.com/",
             ext: ".txt"
