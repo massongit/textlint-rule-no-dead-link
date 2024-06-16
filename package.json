@@ -40,6 +40,7 @@
     "trailingComma": "none"
   },
   "dependencies": {
+    "eslint": "^9.5.0",
     "fs-extra": "^8.1.0",
     "get-url-origin": "^1.0.1",
     "minimatch": "^3.0.4",
